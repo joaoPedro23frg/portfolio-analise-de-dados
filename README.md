@@ -40,7 +40,7 @@ O projeto apresenta uma dashboard interativa com filtros por artista, álbum, g�
 
 🌐 [Acessar dashboard interativa](https://joaopedro23frg.github.io/portfolio-analise-de-dados/projeto-01-albuns-2025/)
 
-📂 [Consultar arquivos e planilha Excel](./projeto-01-albuns-2025/)
+📥 [Baixar planilha Excel](./projeto-01-albuns-2025/projeto%201.xlsx?raw=1)
 
 ---
 
