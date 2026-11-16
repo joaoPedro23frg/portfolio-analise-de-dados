@@ -72,9 +72,3 @@ A análise considera dados de reproduções e estimativas, conforme as fontes e 
 **João Pedro Dias da Silva**
 
 Projeto desenvolvido para composição de portfólio profissional em Análise de Dados, com foco em tratamento, análise e visualização de dados para apoio à tomada de decisões.
-
-## 👤 Autor
-
-**João Pedro Dias da Silva**
-
-Projeto desenvolvido para composição de portfólio profissional em Análise de Dados, com foco em tratamento, análise e visualização de dados para apoio à tomada de decisões.
