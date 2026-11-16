@@ -85,6 +85,14 @@ Os projetos serão ampliados conforme meu desenvolvimento profissional e a aquis
 
 **João Pedro Dias da Silva**
 
+- 📱 **Telefone:** (31) 989146886
+- 💬 **WhatsApp:** (31) 989146886
+- 📸 **Instagram:** (https://www.instagram.com/joaodias_pedro/)
+- 📧 **E-mail:** [joaopedrolb55@gmail.com]
+- 💼 **LinkedIn:** [(https://www.linkedin.com/in/jo%C3%A3o-pedro-9a8547263/)]
+
+
+
 📂 **[GitHub — Portfólio de Análise de Dados](https://github.com/joaoPedro23frg/portfolio-analise-de-dados)**
 
 ---
