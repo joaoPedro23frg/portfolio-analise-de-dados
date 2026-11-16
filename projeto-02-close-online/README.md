@@ -1,52 +1,76 @@
-# Projeto 02 — Close Online | Análise e Monitoramento de Estoque
+# 🛍️ Projeto 02 — Close Online | Análise e Monitoramento de Estoque
 
-## Sobre o projeto
+## 📌 Visão geral
 
-A **Close Online** é uma empresa fictícia de comércio eletrônico, desenvolvida como cenário para um projeto de portfólio profissional em Análise de Dados.
+Este projeto apresenta uma análise de estoque da **Close Online**, uma empresa fictícia de comércio eletrônico, com foco no acompanhamento de quantidades, valores financeiros, validade dos produtos e distribuição geográfica.
 
-O projeto tem como objetivo analisar o comportamento do estoque, sua evolução financeira, a validade dos produtos e a distribuição geográfica, utilizando dashboards interativas para apoiar a tomada de decisões.
+A análise foi desenvolvida utilizando Microsoft Excel, Power Query e Tabelas Dinâmicas. Os resultados também foram apresentados em uma dashboard interativa construída com HTML, CSS e JavaScript, com apoio de ferramentas de Inteligência Artificial.
 
-## Ferramentas utilizadas
+🌐 **[Acessar dashboard interativa](https://joaopedro23frg.github.io/portfolio-analise-de-dados/projeto-02-close-online/)**
 
-- Microsoft Excel 2016
-- Power Query
-- Tabelas e gráficos dinâmicos
-- Segmentação de dados
-- HTML, CSS e JavaScript
+## 🎯 Objetivos
 
-## Perguntas de negócio
+- Analisar a quantidade e o valor financeiro dos estoques.
+- Comparar o crescimento percentual entre os meses analisados.
+- Identificar a distribuição dos estoques por país de origem e localidade.
+- Monitorar a situação de validade dos produtos.
+- Avaliar a exposição financeira associada aos produtos vencidos.
+- Construir visualizações interativas que facilitem o acompanhamento dos indicadores.
 
-1. Como evoluíram a quantidade e o valor financeiro do estoque?
-2. Qual foi o crescimento percentual entre os meses analisados?
-3. Quais localidades concentram os maiores volumes e valores de estoque?
-4. Quantos registros apresentam produtos vencidos ou próximos do vencimento?
-5. Qual é o valor financeiro associado aos produtos vencidos?
-6. Como os indicadores variam conforme o mês, país de origem e localidade?
+## 📊 Indicadores e análises
 
-## Indicadores e análises
+A dashboard apresenta:
 
-A dashboard apresenta indicadores de quantidade e valor financeiro, crescimento percentual, registros de estoque, situação de validade e distribuição geográfica.
+- Quantidade total de produtos em estoque.
+- Valor financeiro dos estoques.
+- Crescimento percentual da quantidade de estoque.
+- Crescimento percentual do valor financeiro.
+- Quantidade de registros analisados.
+- Quantidade de produtos vencidos e próximos do vencimento.
+- Valor financeiro associado aos produtos vencidos.
+- Distribuição dos estoques por país de origem e localidade.
+- Comparações entre os meses selecionados.
 
-Os filtros permitem explorar diferentes recortes dos dados e comparar o desempenho entre períodos.
+Os filtros permitem explorar diferentes recortes por mês, país de origem, localidade e situação de validade.
 
-## Metodologia
+## 🛠️ Ferramentas utilizadas
 
-Os dados são fictícios e foram utilizados para composição de portfólio profissional em Análise de Dados.
+| Ferramenta | Aplicação |
+| --- | --- |
+| Microsoft Excel 2016 | Organização dos dados e desenvolvimento da análise |
+| Power Query | Tratamento e padronização das informações |
+| Tabelas Dinâmicas | Agrupamento e análise de indicadores |
+| HTML, CSS e JavaScript | Construção da dashboard interativa |
+| Inteligência Artificial | Apoio ao desenvolvimento e à estruturação das visualizações |
+| GitHub Pages | Publicação da dashboard |
+
+## 🔎 Fontes e metodologia
+
+O projeto utiliza **dados fictícios**, desenvolvidos para composição de portfólio profissional em Análise de Dados, simulando operações de controle de estoque de uma empresa de comércio eletrônico.
 
 As informações foram tratadas e padronizadas no Power Query, com datas de validade adaptadas para a simulação.
 
-Os indicadores de crescimento representam variações percentuais entre os períodos analisados. Os valores agregados correspondem à soma das posições mensais de estoque, não ao estoque atual.
+**Premissas e limitações:**
 
-A classificação de validade é calculada conforme a data de atualização dos dados.
+- Os dados são fictícios e não representam operações reais de uma empresa.
+- Os indicadores de crescimento representam a variação percentual entre os meses analisados.
+- Os valores agregados correspondem à soma das posições mensais de estoque, não ao estoque atual.
+- A classificação de validade é calculada conforme a data de atualização dos dados.
+- As comparações entre períodos devem considerar os filtros aplicados na dashboard.
+- Os valores financeiros representam estimativas baseadas nos dados simulados de estoque, não receitas de vendas ou lucro.
 
-## Acesso ao projeto
+**Período analisado:** janeiro a março.
 
-**[Visualizar Dashboard Interativa](https://joaopedro23frg.github.io/portfolio-analise-de-dados/projeto-02-close-online/)**
+**Natureza dos dados:** base fictícia para fins educacionais e de portfólio.
 
-**[Baixar Planilha Excel](./Closeonline.xlsx)**
+## 📁 Arquivos do projeto
 
-## Autor
+- `index.html` — Dashboard interativa.
+- `Closeonline.xlsx` — Base de dados, tratamentos e análises desenvolvidas no Excel.
+- `README.md` — Apresentação e documentação do projeto.
 
-João Pedro Dias da Silva
+## 👤 Autor
 
-Projeto desenvolvido por João Pedro Dias da Silva para composição de portfólio profissional em Análise de Dados, com foco em tratamento, análise e visualização de dados para apoio à tomada de decisões.
+**João Pedro Dias da Silva**
+
+Projeto desenvolvido para composição de portfólio profissional em Análise de Dados, com foco em tratamento, análise e visualização de dados para apoio à tomada de decisões.
