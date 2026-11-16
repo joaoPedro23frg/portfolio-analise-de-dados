@@ -1,8 +1,8 @@
-# 🎵 Projeto 01 — Análise de Desempenho de Álbuns lançados em 2025
+# 🎵 Projeto 01 — Análise de Desempenho de Álbuns Lançados em 2025
 
 ## 📌 Visão geral
 
-Este projeto apresenta uma análise exploratória de 103 álbuns lançados em 2025, com foco no desempenho de reproduções musicais e na estimativa de receitas associadas às plataformas Spotify e YouTube Music.
+Este projeto apresenta uma análise exploratória de **103 álbuns lançados em 2025**, com foco no desempenho de reproduções musicais e na estimativa de receitas associadas às plataformas Spotify e YouTube Music.
 
 A análise foi desenvolvida utilizando Microsoft Excel, Power Query e Tabelas Dinâmicas. Os resultados também foram apresentados em uma dashboard interativa construída com HTML, CSS e JavaScript, com apoio de ferramentas de Inteligência Artificial.
 
@@ -34,7 +34,7 @@ Os filtros permitem explorar diferentes recortes da base de dados.
 ## 🛠️ Ferramentas utilizadas
 
 | Ferramenta | Aplicação |
-|---|---|
+| --- | --- |
 | Microsoft Excel | Organização dos dados e desenvolvimento da análise |
 | Power Query | Tratamento e padronização das informações |
 | Tabelas Dinâmicas | Agrupamento e análise de indicadores |
@@ -66,10 +66,10 @@ A análise considera dados de reproduções e estimativas, conforme as fontes e 
 
 - `index.html` — Dashboard interativa.
 - Planilha `.xlsx` — Base de dados, análises e documentação das fontes.
-- `README.md` — Apresentação do projeto.
+- `README.md` — Apresentação e documentação do projeto.
 
-## 📚 Aprendizados
+## 👤 Autor
 
-Este projeto permitiu praticar o tratamento e a padronização de dados, a elaboração de indicadores, a construção de análises comparativas e a apresentação visual de informações.
+**João Pedro Dias da Silva**
 
-Também reforçou a importância de documentar fontes, explicitar premissas e diferenciar estimativas de resultados financeiros efetivamente observados.
+Projeto desenvolvido para composição de portfólio profissional em Análise de Dados, com foco em tratamento, análise e visualização de dados para apoio à tomada de decisões.
