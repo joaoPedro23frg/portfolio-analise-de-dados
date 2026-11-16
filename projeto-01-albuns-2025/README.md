@@ -6,7 +6,6 @@ Este projeto apresenta uma análise exploratória de **103 álbuns lançados em 
 
 A análise foi desenvolvida utilizando Microsoft Excel, Power Query e Tabelas Dinâmicas. Os resultados também foram apresentados em uma dashboard interativa construída com HTML, CSS e JavaScript, com apoio de ferramentas de Inteligência Artificial.
 
-🌐 **[Acessar dashboard interativa](https://joaopedro23frg.github.io/portfolio-analise-de-dados/projeto-01-albuns-2025/)**
 
 ## 🎯 Objetivos
 
@@ -62,11 +61,17 @@ A análise considera dados de reproduções e estimativas, conforme as fontes e 
 
 **Cotação utilizada:** US$ 1 = R$ 5,44.
 
-## 📁 Arquivos do projeto
+## 🌐 Acesso ao projeto
 
-- `index.html` — Dashboard interativa.
-- Planilha `.xlsx` — Base de dados, análises e documentação das fontes.
-- `README.md` — Apresentação e documentação do projeto.
+**[📊 Visualizar Dashboard Interativa](https://joaopedro23frg.github.io/portfolio-analise-de-dados/projeto-01-albuns-2025/)**
+
+**[📥 Baixar Planilha Excel](LINK_DA_PLANILHA_EXCEL)**
+
+## 👤 Autor
+
+**João Pedro Dias da Silva**
+
+Projeto desenvolvido para composição de portfólio profissional em Análise de Dados, com foco em tratamento, análise e visualização de dados para apoio à tomada de decisões.
 
 ## 👤 Autor
 
