@@ -1,6 +1,5 @@
 # 📊 Portfólio de Análise de Dados
 
-### João Pedro Dias da Silva
 
 Bem-vindo ao meu portfólio de projetos em **Análise de Dados**!
 
