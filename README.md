@@ -1,55 +1,93 @@
-# 📊 Portfólio de Projetos — Análise de Dados
+# 📊 Portfólio de Análise de Dados
 
-Bem-vindo ao meu portfólio de projetos de Análise de Dados!
+### João Pedro Dias da Silva
 
-Este repositório reúne projetos práticos desenvolvidos durante minha jornada de aprendizado, com foco em tratamento de dados, construção de dashboards, análise de indicadores e apresentação de resultados para apoiar a tomada de decisões.
+Bem-vindo ao meu portfólio de projetos em **Análise de Dados**!
+
+Este repositório reúne projetos desenvolvidos com o objetivo de aplicar conhecimentos em tratamento, organização, análise e visualização de dados, transformando informações em indicadores que auxiliam na interpretação de resultados e na tomada de decisões.
+
+Os projetos apresentam diferentes cenários de negócio, utilizando ferramentas como Microsoft Excel, Power Query, Tabelas Dinâmicas e dashboards interativas.
+
+---
+
+## 👤 Sobre mim
+
+Sou João Pedro Dias da Silva, estudante da área de Tecnologia da Informação, com interesse em Análise de Dados e Business Intelligence.
+
+Estou desenvolvendo minhas habilidades na preparação e exploração de dados, construção de indicadores de desempenho e criação de dashboards que facilitem a compreensão das informações.
+
+Este portfólio representa minha evolução prática na área e reúne projetos que demonstram a aplicação dos conhecimentos adquiridos.
 
 ## 🛠️ Ferramentas e tecnologias
 
-- Microsoft Excel
-- Power Query
-- Tabelas Dinâmicas
-- HTML, CSS e JavaScript
-- Inteligência Artificial como ferramenta de apoio ao desenvolvimento
+| Ferramenta | Aplicação |
+| --- | --- |
+| Microsoft Excel | Organização, análise e visualização de dados |
+| Power Query | Limpeza, transformação e padronização de dados |
+| Tabelas Dinâmicas | Agrupamento e análise de indicadores |
+| HTML, CSS e JavaScript | Desenvolvimento de dashboards interativas |
+| Inteligência Artificial | Apoio ao desenvolvimento e à estruturação de soluções |
+| GitHub e GitHub Pages | Organização, documentação e publicação dos projetos |
 
 ---
 
-## 📁 Projetos
+## 📁 Projetos desenvolvidos
 
-### 🎵 Projeto 01 — Análise de Desempenho de Álbuns lançados em 2025
+### 🎵 Projeto 01 — Análise de Desempenho de Álbuns Lançados em 2025
 
-**Descrição:**
+Análise exploratória de 103 álbuns musicais, com foco em reproduções nas plataformas Spotify e YouTube Music, estimativas de receitas e comparações por artista, gênero musical e gravadora.
 
-Análise de 103 álbuns lançados em 2025, considerando dados de reproduções no Spotify, estimativas de streams de áudio no YouTube Music e estimativas de receita.
+**Principais análises:**
+- Volume de reproduções por plataforma.
+- Receita estimada em dólares e reais.
+- Rankings de desempenho musical.
+- Participação percentual nas receitas estimadas.
+- Comparações por gênero, gravadora e artista.
 
-O projeto apresenta uma dashboard interativa com filtros por artista, álbum, gênero musical, gravadora e origem do artista.
+📂 **[Documentação e arquivos do Projeto 01](./projeto-01-albuns-2025/)**
 
-**Objetivos:**
-- Explorar o desempenho dos álbuns na amostra analisada.
-- Comparar reproduções e receitas estimadas entre artistas, gêneros e gravadoras.
-- Identificar padrões e destaques nos dados.
-- Desenvolver habilidades de tratamento, análise e visualização de dados.
-
-**Ferramentas utilizadas:** Excel, Power Query, Tabelas Dinâmicas, HTML, CSS e JavaScript.
-
-**Período de apuração:** outubro de 2026.
-
-**Atualização dos dados:** novembro de 2026.
-
-**Observação metodológica:** os valores de receita são estimativas baseadas nas premissas documentadas no projeto, não representando pagamentos efetivos aos artistas ou lucro das gravadoras.
-
-🌐 [Acessar dashboard interativa](https://joaopedro23frg.github.io/portfolio-analise-de-dados/projeto-01-albuns-2025/)
-
-📥 [Baixar planilha Excel](./projeto-01-albuns-2025/projeto%201.xlsx?raw=1)
+🌐 **[Visualizar dashboard interativa](https://joaopedro23frg.github.io/portfolio-analise-de-dados/projeto-01-albuns-2025/)**
 
 ---
 
-## 🚀 Próximos projetos
+### 🛍️ Projeto 02 — Close Online | Análise e Monitoramento de Estoque
 
-Novos projetos de análise de dados serão adicionados conforme o desenvolvimento do portfólio.
+Projeto de análise de estoque de uma empresa fictícia de comércio eletrônico, com foco no acompanhamento de quantidades, valores financeiros, crescimento entre períodos, validade dos produtos e distribuição geográfica.
+
+**Principais análises:**
+- Quantidade e valor financeiro dos estoques.
+- Crescimento percentual entre meses.
+- Monitoramento de produtos vencidos e próximos do vencimento.
+- Exposição financeira dos produtos vencidos.
+- Distribuição dos estoques por país e localidade.
+
+📂 **[Documentação e arquivos do Projeto 02](./projeto-02-close-online/)**
+
+🌐 **[Visualizar dashboard interativa](https://joaopedro23frg.github.io/portfolio-analise-de-dados/projeto-02-close-online/)**
 
 ---
 
-## 📌 Sobre o portfólio
+## 🎯 Objetivo do portfólio
 
-Este portfólio tem como objetivo demonstrar a aplicação prática de conhecimentos em análise de dados, organização de informações, elaboração de indicadores e construção de visualizações interativas.
+Demonstrar minhas competências práticas em Análise de Dados por meio de projetos que envolvem diferentes etapas do processo analítico:
+
+- Coleta e organização de informações.
+- Tratamento e padronização de dados.
+- Construção de indicadores e análises comparativas.
+- Desenvolvimento de dashboards interativas.
+- Documentação de fontes, premissas e metodologias.
+- Comunicação visual de resultados.
+
+Os projetos serão ampliados conforme meu desenvolvimento profissional e a aquisição de novos conhecimentos.
+
+---
+
+## 📬 Contato
+
+**João Pedro Dias da Silva**
+
+📂 **[GitHub — Portfólio de Análise de Dados](https://github.com/joaoPedro23frg/portfolio-analise-de-dados)**
+
+---
+
+*Portfólio desenvolvido para fins educacionais e demonstração de competências profissionais em Análise de Dados.*
