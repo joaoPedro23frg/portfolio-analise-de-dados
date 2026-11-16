@@ -69,6 +69,12 @@ As informações foram tratadas e padronizadas no Power Query, com datas de vali
 - `Closeonline.xlsx` — Base de dados, tratamentos e análises desenvolvidas no Excel.
 - `README.md` — Apresentação e documentação do projeto.
 
+## 🌐 Acesso ao projeto
+
+**[📊 Visualizar Dashboard Interativa](https://joaopedro23frg.github.io/portfolio-analise-de-dados/projeto-02-close-online/)**
+
+**[📥 Baixar Planilha Excel](./Closeonline.xlsx)**
+
 ## 👤 Autor
 
 **João Pedro Dias da Silva**
