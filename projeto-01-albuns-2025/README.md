@@ -61,6 +61,11 @@ A análise considera dados de reproduções e estimativas, conforme as fontes e 
 
 **Cotação utilizada:** US$ 1 = R$ 5,44.
 
+## 📁 Arquivos do projeto
+- index.html — Dashboard interativa.
+- Planilha .xlsx — Base de dados, análises e documentação das fontes.
+- README.md — Apresentação e documentação do projeto
+
 ## 🌐 Acesso ao projeto
 
 **[📊 Visualizar Dashboard Interativa](https://joaopedro23frg.github.io/portfolio-analise-de-dados/projeto-01-albuns-2025/)**
